@@ -12,7 +12,7 @@ This project seeks to predict where laughter will occur in a stand-up comedy set
 ## Data Sources
 Primary
 •	Stand-up Comedy Transcripts. http://scrapsfromtheloft.com/comedy/ <br>
-•	Note: Stand-Up Comedy uses offensive language and pushes boundaries. To avoid offending readers this repo does not include the original text of the transcripts. I also aim to avoid displaying this type of language as much as possible in the notebooks, but please be aware that some offensive words may remain.
+•	Note: Stand-Up Comedy uses offensive language and pushes boundaries. To avoid offending readers this repo does not include the original text of the transcripts. I aim to avoid displaying this type of language as much as possible in the notebooks, but please be aware that some offensive words may remain.
 
 ## Next Steps
 •	Extending the model, with transfer learning and pre-trained models such as ULMFiT, Google’s BERT or OpenAI’s GPT-3. <br>
